@@ -5,7 +5,7 @@
 This project analyzes product-level data from Zepto using SQL to extract business insights like discounts, revenue, and inventory.
 
 ## 📂 Dataset
-- Source: Zepto product dataset
+- Source: Zepto product dataset https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset/data?select=zepto_v2.csv
 - Contains:
   - Product Name
   - Category
