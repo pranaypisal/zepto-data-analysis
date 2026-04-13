@@ -46,3 +46,9 @@ This project analyzes product-level data from Zepto using SQL to extract busines
 
 ## 👤 Author
 Pranay Pisal
+
+## 🔥 Skills Demonstrated
+- SQL Joins & Aggregations
+- Data Cleaning
+- Business Analysis
+- Data Transformation
